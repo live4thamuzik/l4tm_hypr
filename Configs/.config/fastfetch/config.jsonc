@@ -10,7 +10,9 @@
     "modules": [
         {
             "type": "custom",
-            "format": "\u001b[36m    コンピューター"
+             "format": "\u001b[36m   : Lenovo LEGION Pro 5i"
+//            "format": "\u001b[36m    コンピューター"
+
         },
         {
             "type": "custom",
